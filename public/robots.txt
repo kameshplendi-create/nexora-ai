@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nexora-ai-xi-gray.vercel.app/sitemap.xml
