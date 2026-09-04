@@ -1,0 +1,6 @@
+{
+  "name": "NEXORA AI",
+  "description": "The Next Realm of AI - A modern AI technology platform for AI education, products, automation, custom solutions, robotics, and workshops.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
